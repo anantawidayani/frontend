@@ -1,0 +1,427 @@
+/* perpustakaan  */
+* {
+  margin: 0;
+}
+
+.konten {
+  background-color: #d0b8a8;
+}
+
+.konten h1 {
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.konten ul li a {
+  text-decoration: none;
+  color: antiquewhite;
+  padding-top: 50px;
+}
+.konten ul li {
+  list-style: none;
+  display: inline-block;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+.konten li {
+  background-color: #815b5b;
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+}
+footer {
+  background-color: #815b5b;
+  color: antiquewhite;
+  height: 40px;
+  padding-top: 20px;
+  text-align: center;
+}
+/* penutup perpustakaan  */
+
+/* PROSEDUR  */
+/* benner 1  */
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.benner {
+  background-color: #d0b8a8;
+  height: 700px;
+  width: 100%;
+}
+.benner h1 {
+  font-size: 25px;
+}
+.benner p {
+  font-size: 20px;
+}
+.benner img {
+  margin-left: 150px;
+}
+.benner table {
+  margin-left: 30px;
+}
+/* akhir benner  */
+
+/* benner 2 */
+.content {
+  background-color: #ede4e0;
+  padding-top: 30px;
+  height: 500px;
+  list-style: none;
+}
+.content .border {
+  border: 2px solid #815b5b;
+  width: 48pc;
+  height: 15pc;
+  border-radius: 10px;
+  padding-top: 20px;
+  margin-left: 45vh;
+  margin-top: 60px;
+}
+.content h2 li {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 30px;
+}
+.content .border li {
+  font-size: 25px;
+}
+/* akhir benner 2  */
+
+/* benner 3  */
+.card {
+  background-color: #eee3cb;
+  list-style: none;
+  height: 500px;
+}
+.kotak {
+  display: inline-flex;
+}
+.card h2 {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+.card .border {
+  border: 2px solid #815b5b;
+  border-radius: 15px;
+  height: 18pc;
+  width: 20pc;
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.card .border1 {
+  border: 2px solid #815b5b;
+  border-radius: 15px;
+  height: 22pc;
+  width: 20pc;
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.card .border2 {
+  border: 2px solid #815b5b;
+  border-radius: 15px;
+  height: 22pc;
+  width: 20pc;
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.kotak dt {
+  font-size: 23px;
+}
+.kotak dd {
+  font-size: 20px;
+}
+/* akhir benner 3  */
+
+/* benner 4  */
+.langkah {
+  background-color: #eddbc0;
+  width: 153vh;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 20%;
+  padding-top: 50px;
+}
+.langkah h2 {
+  font-size: 20px;
+  text-align: center;
+  list-style: none;
+  margin-top: 20px;
+}
+.crd .border {
+  border: 2px solid #815b5b;
+  height: 18pc;
+  width: 50pc;
+  border-radius: 20px;
+}
+.crd ol li {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+/* akhir benner 4 */
+
+/* materi B (benner 5) */
+.materiB {
+  background-color: #d0b8a8;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+}
+.materiB h1 {
+  font-size: 25px;
+}
+.materiB p {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.materiB img {
+  margin-left: 150px;
+}
+.materiB table {
+  margin-left: 30px;
+}
+/* akhir benner 5 */
+
+/* benner 6 */
+.teks {
+  background-color: #e1ceb5;
+  padding-top: 50px;
+  height: 700px;
+}
+.struktur .border {
+  border: 2px solid #815b5b;
+  border-radius: 15px;
+  height: 8pc;
+  width: 25pc;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-top: 30px;
+  display: inline-block;
+  margin-top: 30px;
+  align-items: center;
+}
+.struktur {
+  margin-left: 200px;
+}
+.teks h2 {
+  text-align: center;
+  padding-top: 20px;
+  list-style: none;
+}
+/* akhir benner 7 */
+/* benner 8  */
+.kaidah {
+  background-color: #eddbc0;
+  width: 154vh;
+  height: 350px;
+  padding-top: 50px;
+  padding-left: 20%;
+  padding-top: 50px;
+}
+.kaidah h2 {
+  font-size: 30px;
+  text-align: center;
+  list-style: none;
+  margin-top: 20px;
+}
+.crd .border {
+  border: 2px solid #815b5b;
+  height: 18pc;
+  width: 50pc;
+  border-radius: 20px;
+}
+.crd ol li {
+  padding-top: 10px;
+  font-size: 20px;
+}
+.button1 {
+  background-color: #d0b8a8;
+  height: 60px;
+  padding-left: 50vh;
+  padding-top: 40px;
+}
+.button1 a {
+  background-color: #815b5b;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 35px;
+  color: white;
+  border-radius: 5px;
+}
+/* akhir benner 8 */
+
+/* cOntoh teks proseddur  */
+.button2 {
+  background-color: #d0b8a8;
+  height: 60px;
+  padding-left: 80vh;
+  padding-top: 40px;
+}
+.button2 a {
+  background-color: #815b5b;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 30px;
+  color: white;
+  border-radius: 5px;
+}
+
+/* RESENSI  */
+.body {
+  height: 390vh;
+}
+/* content 1  */
+.resensi table {
+  background-color: wheat;
+  margin-top: 50px;
+  margin-left: 60px;
+  border-radius: 50px;
+}
+/* content 2 */
+.tujuan table {
+  background-color: #e1ceb5;
+  margin-top: 50px;
+  margin-left: 50vh;
+  border-radius: 30px;
+}
+/* content 3 */
+.menganalisis table {
+  background-color: #e8dfca;
+  margin-top: 50px;
+  margin-left: 20vh;
+  border-radius: 50px;
+}
+/* content 4 */
+.box {
+  margin-top: 50px;
+  margin-left: 70px;
+  display: inline-flex;
+}
+
+.menyajikan {
+  background-color: #f5eddc;
+  width: 90vh;
+  height: 45vh;
+  border-radius: 40px;
+}
+.menyajikan h2 {
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+.menyajikan li {
+  font-size: 20px;
+}
+.kaidah-resensi {
+  background-color: #eee3cb;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-right: 30px;
+  font-size: 25px;
+  border-radius: 40px;
+}
+.kaidah-resensi h2 {
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+.kaidah-resensi li {
+  font-size: 20px;
+}
+
+.struktur-resensi h2 {
+  margin-top: 40px;
+  text-align: center;
+  list-style: none;
+  font-size: 30px;
+  background-color: #815b5b;
+  width: 400px;
+  height: 50px;
+  margin-left: 65vh;
+  border-radius: 30px;
+  padding-top: 20px;
+}
+.lengkap {
+  margin-top: 30px;
+  align-items: center;
+}
+.lengkap .border1 {
+  border: 2px solid #815b5b;
+  margin-top: 10px;
+  border-radius: 20px;
+  width: 65vh;
+  height: 85px;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  display: inline-block;
+}
+.border1 dt {
+  font-size: 25px;
+}
+.lengkap .border2 {
+  border: 2px solid #815b5b;
+  margin-top: 10px;
+  border-radius: 20px;
+  width: 70vh;
+  height: 90px;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.border2 dt {
+  font-size: 25px;
+}
+.lengkap .border3 {
+  border: 2px solid #815b5b;
+  margin-top: 10px;
+  width: 75vh;
+  height: 18vh;
+  border-radius: 20px;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-left: 3opx;
+}
+.border3 dt {
+  font-size: 25px;
+}
+.lengkap .border4 {
+  border: 2px solid #815b5b;
+  margin-top: 10px;
+  width: 80vh;
+  border-radius: 20px;
+  height: 20vh;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.border4 dt {
+  font-size: 25px;
+}
+.lengkap .border5 {
+  border: 2px solid #815b5b;
+  margin-top: 10px;
+  width: 85vh;
+  height: 20vh;
+  font-size: 20px;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.border5 dt {
+  font-size: 25px;
+}

@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+.banner {
+    width: 100%;
+    min-height: 100vh;
+    background-color: pink;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}

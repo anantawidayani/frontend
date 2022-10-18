@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: #D0B8A8;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+    box-shadow: antiquewhite;
+    line-height: 80px;
+}
+.navbar img{
+    width: 120px;
+    margin-right: 30px;
+    height: 85px;
+
+}
+.navbar .logo{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+.menu ul li {
+    display: inline-block;
+    margin-right: 18px;
+}
+.menu ul li a{
+    text-decoration: none;
+    display: blok;
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+/* .menu ul li {
+    list-style: none;
+
+    margin-left: 800px;
+}
+.menu ul li a{
+    display: blok;
+    float: left;
+    padding-top: 15px;
+    padding-left: 20px;
+    color: aliceblue;
+    text-decoration: none;
+} */
+.content {
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    overflow-y: scroll;
+}
+.kiri{
+    float: left;
+    width: 60%;
+}
+.border {
+    border: 2px solid #967E76;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+.border h3, p {
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.kanan {
+    float: left;
+    width: 30%;
+    height: 100vh;
+    margin-left: 30px;
+    margin-right: 20px; 
+}
+.kanan h3{
+    margin-top: 15px;
+    
+}
+.kanan h3, a{
+    text-decoration: none;
+    color: black;
+  
+}
+.footer {
+    background-color: #967E76;
+    color:aliceblue;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
